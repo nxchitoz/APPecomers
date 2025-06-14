@@ -16,7 +16,7 @@ app.add_middleware(
 )
 
 # API Key de OpenAI
-openai.api_key = "TU_API_KEY_AQUI"
+openai.api_key = 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
 
 class DatosGenerador(BaseModel):
     producto: str
